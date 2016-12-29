@@ -1,0 +1,4 @@
+package: github.com/xintron/xmonad-log
+import:
+- package: github.com/godbus/dbus
+  version: ^4.0.0
