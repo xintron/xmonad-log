@@ -34,6 +34,7 @@ import XMonad.Hooks.DynamicLog
 
 import qualified DBus as D
 import qualified DBus.Client as D
+import qualified Codec.Binary.UTF8.String as UTF8
 
 main :: IO ()
 main = do
